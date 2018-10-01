@@ -132,7 +132,7 @@ body {overflow:hidden;}
 .main .cTitle h1 a {color:#353535;font-weight:700;font-size:20px;}
 .main .cContent .cTitle {margin-bottom:2em;width:100%;height:1.5em;}
 .main .cContent .cIntro {margin-bottom:1.5em;width:81%;height:auto;}
-.main .cContent .cIntro p {color:#666;font-size:14px;}
+.main .cContent .cIntro p {color:#666;font-size:14px;text-align: justify;}
 .main .cContent .cIntro span a {color:#95dbc6;}
 .main .cContent .cIntro span a:hover {color:#F4A148;}
 .main .cContent .cinTage {position:absolute;width:81%;height:auto;}
